@@ -1,2 +1,4 @@
 title: foo 日本語 title
 theme: jekyll-theme-cayman
+titles_from_headings:
+  enabled: false
