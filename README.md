@@ -1,5 +1,3 @@
-# Bunbuku Honeypot
-
 WIP:
 
 ### 2021
