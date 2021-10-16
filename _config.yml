@@ -1,5 +1,4 @@
 url: https://r6eve.github.io
-name: foo 日本語 title
+name: Bunbuku Honeypot
 remote_theme: cyevgeniy/jekyll-true-minimal
-# theme: minima
 markdown: GFM

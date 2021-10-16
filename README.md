@@ -1,9 +1,6 @@
-# Test
+# Bunbuku Honeypot
 
-### 2022
-
-- 10/10 [qux](localhost)
-- 05/05 [bar](localhost)
+WIP:
 
 ### 2021
 
