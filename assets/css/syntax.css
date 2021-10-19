@@ -1,3 +1,5 @@
+header h1 a { color: #f8766d; text-decoration: none; }
+p { max-width: 40em; }
 .highlight  { background: #f6f8fa; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
