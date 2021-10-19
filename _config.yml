@@ -1,5 +1,4 @@
 url: https://r6eve.github.io
 name: Bunbuku Honeypot
-# remote_theme: cyevgeniy/jekyll-true-minimal
-theme: minima
+remote_theme: cyevgeniy/jekyll-true-minimal
 markdown: GFM
