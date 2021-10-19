@@ -1,5 +1,25 @@
 header h1 a { color: #f8766d; text-decoration: none; }
 p { max-width: 40em; }
+table {
+  margin-bottom: 30px;
+  width: 100%;
+  text-align: left;
+  color: #3f3f3f;
+  border-collapse: collapse;
+  border: 1px solid #e8e8e8;
+}
+table th,
+table td {
+  padding: 10px 15px;
+}
+table th {
+  background-color: #f6f8fa;
+  border: 1px solid #dedede;
+  border-bottom-color: #c9c9c9;
+}
+table td {
+  border: 1px solid #e8e8e8;
+}
 .highlight  { background: #f6f8fa; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
