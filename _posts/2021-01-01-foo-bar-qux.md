@@ -62,3 +62,6 @@ end
 | x   | y   | z   |
 
 ![ocaml](/img/ocaml.png "キャプションテスト")
+図 : キャプションテスト
+
+foo bar qux
