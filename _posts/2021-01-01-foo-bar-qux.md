@@ -60,3 +60,5 @@ end
 | --- | --- | --- |
 | a   | b   | c   |
 | x   | y   | z   |
+
+![ocaml](/img/ocaml.png "キャプションテスト")
