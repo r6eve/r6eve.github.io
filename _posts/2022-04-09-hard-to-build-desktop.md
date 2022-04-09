@@ -188,12 +188,12 @@ lightdmが立ち上がらなかった。検証のため別ttyに入りブート�
 
 ## 6. おまけ
 
-| Images                                                                              |
-| ----------------------------------------------------------------------------------- |
-| ![Overall](/img/2022-04-09/img01.jpg "Overall" | width="800")                       |
-| ![Right Side](/img/2022-04-09/img02.jpg "Right Side" | width="800")                 |
-| ![Left Side](/img/2022-04-09/img03.jpg "Left Side" | width="800")                   |
-| ![Low-Noise Adaptors](/img/2022-04-09/img04.jpg "Low-Noise Adaptors" | width="800") |
-| ![Front Fans](/img/2022-04-09/img05.jpg "Front Fans" | width="800")                 |
-| ![Back Fan](/img/2022-04-09/img06.jpg "Back Fan" | width="800")                     |
-| ![Test run](/img/2022-04-09/img07.jpg "Test run" | width="800")                     |
+| Images                                                                      |
+| --------------------------------------------------------------------------- |
+| <img src="/img/2022-04-09/img01.jpg" alt="Overall" width="800"/>            |
+| <img src="/img/2022-04-09/img02.jpg" alt="Right Side" width="800"/>         |
+| <img src="/img/2022-04-09/img03.jpg" alt="Left Side" width="800"/>          |
+| <img src="/img/2022-04-09/img04.jpg" alt="Low-Noise Adaptors" width="800"/> |
+| <img src="/img/2022-04-09/img05.jpg" alt="Front Fans" width="800"/>         |
+| <img src="/img/2022-04-09/img06.jpg" alt="Back Fan" width="800"/>           |
+| <img src="/img/2022-04-09/img07.jpg" alt="Test run" width="800"/>           |
