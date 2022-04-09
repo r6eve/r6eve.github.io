@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Bunbuku Honeypot
 ---
 
 ### 2022
